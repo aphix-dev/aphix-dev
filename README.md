@@ -11,5 +11,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphix-dev)](https://github.com/aphix-dev/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphix-dev&theme=radical)](https://github.com/aphix-dev/github-readme-stats)
 ![Aphix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aphix-dev&hide=contribs,prs&theme=radical)
