@@ -12,4 +12,3 @@
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aphix-dev&theme=maroongold&langs_count=7)](https://github.com/aphix-dev/github-readme-stats)
-![Aphix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aphix-dev&hide=contribs,prs&theme=maroongold&count_private=true)
